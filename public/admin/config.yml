@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: sayagaffy/musafir-docs
+  branch: main
+
+media_folder: "public/images"
+public_folder: "/images"
+
+collections:
+  - name: "musafir"
+    label: "Dokumentasi Musafir"
+    folder: "src/content/docs/dokumentasi-musafir"
+    create: true
+    nested:
+      depth: 100
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
