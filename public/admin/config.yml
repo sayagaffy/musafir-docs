@@ -2,13 +2,23 @@ backend:
   name: github
   repo: sayagaffy/musafir-docs
   branch: main
-  base_url: https://musafir-docs.netlify.app
-  auth_endpoint: api/auth
 
 media_folder: "public/images"
 public_folder: "/images"
 
 collections:
+  - name: "docs"
+    label: "Documentation"
+    folder: "src/content/docs"
+    create: true
+    nested:
+      depth: 100
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "doc" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "musafir"
     label: "Dokumentasi Musafir"
     folder: "src/content/docs/dokumentasi-musafir"
@@ -18,4 +28,25 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "doc" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "guides"
+    label: "Guides"
+    folder: "src/content/docs/guides"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "doc" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "reference"
+    label: "Reference"
+    folder: "src/content/docs/reference"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "doc" }
       - { label: "Body", name: "body", widget: "markdown" }
