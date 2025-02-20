@@ -2,6 +2,8 @@ backend:
   name: github
   repo: sayagaffy/musafir-docs
   branch: main
+  base_url: https://musafir-docs.netlify.app
+  auth_endpoint: api/auth
 
 media_folder: "public/images"
 public_folder: "/images"
