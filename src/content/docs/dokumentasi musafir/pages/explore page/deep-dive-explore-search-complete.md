@@ -1,3 +1,7 @@
+---
+title: Deep Dive: explore_search.dart
+description: explores_search deep dive
+---
 # Deep Dive: explore_search.dart
 
 ## Performance Optimization

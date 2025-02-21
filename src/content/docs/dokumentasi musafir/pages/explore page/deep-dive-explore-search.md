@@ -1,3 +1,8 @@
+---
+title: Deep Dive: explore_search.dart
+description: explore_search.dart menangani fungsionalitas pencarian dalam aplikasi Musafir. File ini mengintegrasikan Google Places API untuk pencarian lokasi dan menyediakan antarmuka pengguna untuk pencarian tempat.
+---
+
 # Deep Dive: explore_search.dart
 
 ## Overview

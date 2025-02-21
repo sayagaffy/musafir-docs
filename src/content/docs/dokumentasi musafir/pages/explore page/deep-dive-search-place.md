@@ -1,3 +1,9 @@
+---
+title: Deep Dive: search_place.dart
+description: search_place.dart adalah komponen yang menangani pencarian dan pemilihan tempat makan/resto dalam aplikasi Musafir.
+---
+
+
 # Deep Dive: search_place.dart
 
 ## Overview

@@ -1,3 +1,9 @@
+---
+title: Deep Dive: rencana_page.dart
+description: rencana_page.dart adalah file yang menangani pembuatan rencana perjalanan baru dalam aplikasi Musafir. File ini berisi form untuk input detail perjalanan, integrasi dengan Google Calendar, dan pemilihan tempat makan dan masjid.
+---
+
+
 # Deep Dive: rencana_page.dart
 
 ## Overview

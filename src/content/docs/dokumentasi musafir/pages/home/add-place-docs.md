@@ -1,3 +1,11 @@
+---
+title: Dokumentasi AddPlace Widget
+description: AddPlace adalah widget StatefulWidget yang digunakan untuk menambahkan atau mengedit tempat baru dalam aplikasi Musafir.
+---
+
+
+
+
 # Dokumentasi AddPlace Widget
 **Path**: `lib/ui/pages/favorite/add_place.dart`
 

@@ -1,3 +1,9 @@
+---
+title: Deep Dive: search_place2.dart
+description: search_place2.dart adalah komponen yang menangani pencarian dan pemilihan masjid atau tempat ibadah dalam aplikasi Musafir.
+---
+
+
 # Deep Dive: search_place2.dart
 
 ## Overview

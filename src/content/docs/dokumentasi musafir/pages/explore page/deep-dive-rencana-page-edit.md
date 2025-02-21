@@ -1,3 +1,9 @@
+---
+title: Deep Dive: rencana_page_edit.dart
+description: rencana_page_edit.dart adalah file yang menangani proses pengeditan rencana perjalanan yang sudah ada. File ini memiliki fungsionalitas yang mirip dengan rencana_page.dart namun dengan tambahan fitur untuk update dan delete rencana.
+---
+
+
 # Deep Dive: rencana_page_edit.dart
 
 ## Overview
