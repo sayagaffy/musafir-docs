@@ -1,3 +1,8 @@
+---
+title: "Deep Dive: explore_pages.dart"
+description: "adalah file utama yang menangani tampilan dan logika untuk halaman explore dalam aplikasi Musafir."
+---
+
 # Deep Dive: explore_pages.dart
 
 ## Overview

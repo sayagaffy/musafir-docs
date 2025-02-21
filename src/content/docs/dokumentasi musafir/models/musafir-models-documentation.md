@@ -1,6 +1,6 @@
 ---
-title: Model Documentation Basic
-description: Penjelasan Mendasar Model Keseluruhan musafir app.
+title: "Model Documentation Basic"
+description: "Penjelasan Mendasar Model Keseluruhan musafir app."
 ---
 
 # Dokumentasi Model Musafir App

@@ -1,6 +1,6 @@
 ---
-title: Auth Controller Deep dive
-description: Penjelasan mendalam tentang Auth Controller
+title: "Auth Controller Deep dive"
+description: "Penjelasan mendalam tentang Auth Controller"
 ---
 
 # Deep Dive: Auth Controller

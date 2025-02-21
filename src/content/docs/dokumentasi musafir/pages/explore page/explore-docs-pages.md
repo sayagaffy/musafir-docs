@@ -1,6 +1,6 @@
 ---
-title: Dokumentasi Fitur Explore Musafir
-description: Semua file berada di direktori: `lib/ui/pages/explore/`
+title: "Dokumentasi Fitur Explore Musafir"
+description: "Semua file berada di direktori: `lib/ui/pages/explore/`"
 ---
 
 

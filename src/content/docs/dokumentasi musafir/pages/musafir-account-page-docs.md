@@ -1,6 +1,6 @@
 ---
-title: Modul Account [account page, faq, info profile, privasi]
-description: dokumentasi modul akun
+title: "Modul Account [account page, faq, info profile, privasi]"
+description: "dokumentasi modul akun"
 ---
 
 # Dokumentasi Modul Account - Musafir App

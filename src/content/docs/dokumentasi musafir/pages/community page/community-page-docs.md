@@ -1,6 +1,6 @@
 ---
-title: Dokumentasi Community Page
-description: File ini merupakan implementasi halaman komunitas dalam aplikasi Musafir yang menggunakan framework Flutter dengan state management GetX.
+title: "Dokumentasi Community Page"
+description: "File ini merupakan implementasi halaman komunitas dalam aplikasi Musafir yang menggunakan framework Flutter dengan state management GetX."
 ---
 
 

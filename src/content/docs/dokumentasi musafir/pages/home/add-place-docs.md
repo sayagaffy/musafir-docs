@@ -1,6 +1,6 @@
 ---
-title: Dokumentasi AddPlace Widget
-description: AddPlace adalah widget StatefulWidget yang digunakan untuk menambahkan atau mengedit tempat baru dalam aplikasi Musafir.
+title: "Dokumentasi AddPlace Widget"
+description: "AddPlace adalah widget StatefulWidget yang digunakan untuk menambahkan atau mengedit tempat baru dalam aplikasi Musafir."
 ---
 
 

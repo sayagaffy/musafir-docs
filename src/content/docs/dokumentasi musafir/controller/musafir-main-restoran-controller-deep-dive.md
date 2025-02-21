@@ -1,6 +1,6 @@
 ---
-title: MainPage & Restoran Controller
-description: Dokumentasi penjelasan MainPageController dan RestoranController
+title: "MainPage & Restoran Controller"
+description: "Dokumentasi penjelasan MainPageController dan RestoranController"
 ---
 
 # Deep Dive: MainPage & Restoran Controller

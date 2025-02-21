@@ -1,6 +1,6 @@
 ---
-title: Explore Controller Deep Dive
-description: Penjelasan mendalam tentang Explore Controller
+title: "Explore Controller Deep Dive"
+description: "Penjelasan mendalam tentang Explore Controller"
 ---
 
 # Deep Dive: Explore Controller

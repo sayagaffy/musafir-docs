@@ -1,6 +1,6 @@
 ---
-title: Dokumentasi FavoritePage
-description: FavoritePage adalah halaman yang menampilkan daftar tempat favorit yang telah disimpan oleh pengguna. Halaman ini menggunakan StatefulWidget dan menampilkan data dalam bentuk grid layout.
+title: "Dokumentasi FavoritePage"
+description: "FavoritePage adalah halaman yang menampilkan daftar tempat favorit yang telah disimpan oleh pengguna. Halaman ini menggunakan StatefulWidget dan menampilkan data dalam bentuk grid layout."
 ---
 
 

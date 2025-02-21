@@ -1,6 +1,6 @@
 ---
-title: HomeController deep dive
-description: HomeController Deep dive explanation
+title: "HomeController deep dive"
+description: "HomeController Deep dive explanation"
 ---
 
 # Deep Dive Analysis - HomeController

@@ -1,6 +1,6 @@
 ---
-title: Theme Documentation
-description: Penjelasan penggunaan warna dan theme di musafir app.
+title: "Theme Documentation"
+description: "Penjelasan penggunaan warna dan theme di musafir app."
 ---
 
 # Dokumentasi Theme.dart

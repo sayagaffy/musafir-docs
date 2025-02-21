@@ -1,6 +1,6 @@
 ---
-title: Location Controller Deep Dive
-description: Penjelasan Mendalam tentang location controller di musafir app.
+title: "Location Controller Deep Dive"
+description: "Penjelasan Mendalam tentang location controller di musafir app."
 ---
 
 # Deep Dive: Location Controller

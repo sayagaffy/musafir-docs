@@ -16,6 +16,10 @@ export default defineConfig({
           label: "Musafir Docs",
           autogenerate: { directory: "dokumentasi musafir" },
         },
+        {
+          label: "Pages",
+          autogenerate: { directory: "pages" },
+        },
       ],
     }),
   ],

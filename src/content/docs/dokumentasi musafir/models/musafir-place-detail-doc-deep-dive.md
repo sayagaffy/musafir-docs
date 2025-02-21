@@ -1,6 +1,6 @@
 ---
-title: PlaceDetail Model Deep Dive
-description: Penjelasan Mendalam Model PlaceDetail
+title: "PlaceDetail Model Deep Dive"
+description: "Penjelasan Mendalam Model PlaceDetail"
 ---
 
 # Deep Dive Documentation: PlaceDetail Model

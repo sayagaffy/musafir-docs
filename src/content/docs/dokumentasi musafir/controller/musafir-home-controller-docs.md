@@ -1,6 +1,6 @@
 ---
-title: Dokumentasi Home Controller
-description: Penjelasan tentan HomeController di Musafir app.
+title: "Dokumentasi Home Controller"
+description: "Penjelasan tentan HomeController di Musafir app."
 ---
 
 # Dokumentasi HomeController

@@ -1,6 +1,6 @@
 ---
-title: Repository Basic Explanation
-description: Penjelasan mendasar repository di musafir app
+title: "Repository Basic Explanation"
+description: "Penjelasan mendasar repository di musafir app"
 ---
 
 # Dokumentasi Repository Musafir App

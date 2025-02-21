@@ -1,6 +1,6 @@
 ---
-title: Main Page Dokumentation
-description: Dokumen Penjelasan main_page.dart
+title: "Main Page Dokumentation"
+description: "Dokumen Penjelasan main_page.dart"
 ---
 
 # Dokumentasi Komprehensif Musafir App

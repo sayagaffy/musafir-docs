@@ -1,6 +1,6 @@
 ---
-title: api documentation
-description: adalah kelas utama yang menangani semua komunikasi HTTP dengan backend utama aplikasi. Kelas ini menggunakan GetX untuk manajemen state dan konektivitas.
+title: "api documentation"
+description: "adalah kelas utama yang menangani semua komunikasi HTTP dengan backend utama aplikasi. Kelas ini menggunakan GetX untuk manajemen state dan konektivitas."
 ---
 
 # Dokumentasi API Client Musafir
