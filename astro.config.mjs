@@ -6,14 +6,29 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "Musafir Docs",
-      description: "Dokumentasi Musafir",
+      title: "Musafir Documentation",
+      description:
+        "Welcome to the Musafir app documentation. This documentation contains explanations of the main components of the application.",
       social: {
-        github: "https://github.com/sayagaffy",
+        github: "https://github.com/sayagaffy/musafir",
       },
       sidebar: [
         {
-          label: "Musafir Docs",
+          label: "🏗️ Foundation",
+          items: [
+            "foundation/project-overview",
+            "foundation/development-setup",
+          ],
+        },
+        {
+          label: "🔐 Authentication & Navigation",
+          items: [
+            "authentication/authentication-system",
+            "authentication/main-navigation",
+          ],
+        },
+        {
+          label: "📚 Dokumentasi Musafir",
           autogenerate: { directory: "dokumentasi musafir" },
         },
         {

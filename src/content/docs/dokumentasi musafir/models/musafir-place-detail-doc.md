@@ -1,6 +1,6 @@
 ---
-title: Place Detail Model Basic
-description: Penjelasan Mendasar Model PlaceDetail musafir app.
+title: "Place Detail Model Basic"
+description: "S"
 ---
 
 # Dokumentasi Model PlaceDetail

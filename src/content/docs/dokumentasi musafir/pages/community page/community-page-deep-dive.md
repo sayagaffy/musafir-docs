@@ -1,6 +1,6 @@
 ---
-title: Deep Dive Analysis - Community Page
-description: Analisis Mendalam Architecture dan Implementation
+title: "Deep Dive Analysis - Community Page"
+description: "S"
 ---
 
 

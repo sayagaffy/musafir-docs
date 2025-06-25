@@ -1,6 +1,6 @@
 ---
-title: Deep Dive Technical Documentation - FavoritePage
-description: Documentation - FavoritePage
+title: "Deep Dive Technical Documentation - FavoritePage"
+description: "Documentation - FavoritePage"
 ---
 
 
